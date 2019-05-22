@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/CppEratosthenes.dir/main.cpp.o  -o CppEratosthenes.exe -Wl,--out-implib,libCppEratosthenes.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

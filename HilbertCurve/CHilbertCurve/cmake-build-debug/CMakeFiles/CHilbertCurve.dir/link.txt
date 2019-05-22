@@ -1,0 +1,1 @@
+/usr/bin/cc  -g  -Wl,--enable-auto-import CMakeFiles/CHilbertCurve.dir/main.c.o  -o CHilbertCurve.exe -Wl,--out-implib,libCHilbertCurve.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

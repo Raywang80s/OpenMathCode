@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/MathCode/HilbertCurve/CHilbertCurve/hilbert.h
+
+/cygdrive/d/MathCode/HilbertCurve/CHilbertCurve/main.c
+hilbert.h
+/cygdrive/d/MathCode/HilbertCurve/CHilbertCurve/hilbert.h
+string.h
+-
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+stdio.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+stdlib.h
+-
+stdio.h
+-
+

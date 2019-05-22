@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/CppPi.dir/main.cpp.o  -o CppPi.exe -Wl,--out-implib,libCppPi.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

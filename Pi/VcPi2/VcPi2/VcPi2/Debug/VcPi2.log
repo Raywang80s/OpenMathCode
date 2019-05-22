@@ -1,0 +1,7 @@
+﻿  VcPi2.cpp
+d:\mathcode\pi\vcpi2\vcpi2\vcpi2\vcpi2.cpp(7): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+d:\mathcode\pi\vcpi2\vcpi2\vcpi2\vcpi2.cpp(14): warning C4477: “printf”: 格式字符串“%.4d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+  d:\mathcode\pi\vcpi2\vcpi2\vcpi2\vcpi2.cpp(14): note: 请考虑在格式字符串中使用“%lld”
+  d:\mathcode\pi\vcpi2\vcpi2\vcpi2\vcpi2.cpp(14): note: 请考虑在格式字符串中使用“%I64d”
+  VcPi2.vcxproj -> D:\MathCode\Pi\VcPi2\VcPi2\Debug\VcPi2.exe
+  VcPi2.vcxproj -> D:\MathCode\Pi\VcPi2\VcPi2\Debug\VcPi2.pdb (Full PDB)

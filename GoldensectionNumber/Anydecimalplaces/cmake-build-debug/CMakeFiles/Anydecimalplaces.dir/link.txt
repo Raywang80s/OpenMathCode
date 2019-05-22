@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Anydecimalplaces.dir/main.cpp.o  -o Anydecimalplaces.exe -Wl,--out-implib,libAnydecimalplaces.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
